@@ -13,7 +13,7 @@ modern QML Battery interface ,The goal is to learn how to link QML files with C+
 ## Screenshots
 
 
-![image alt](https://github.com/M-Amine01/modern-QML-thermostat-interface/blob/5828dd10d187817179033c68c096670d315b8f92/picture.png)
+![image alt](https://github.com/M-Amine01/Battery_Project/blob/3ab094a07e9319097323f539df74ac47c109fcb8/picture2.png
 
 ## How to Build
 
